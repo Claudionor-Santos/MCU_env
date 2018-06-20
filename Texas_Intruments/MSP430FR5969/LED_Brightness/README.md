@@ -1,6 +1,5 @@
-/********************************************************************************__
-//  MSP430FR5969 Demo - LED BRIGHTNESS__
-//__
+/********************************************************************************  //  MSP430FR5969 Demo - LED BRIGHTNESS__
+//
 //  Description: This program generates two PWM outputs on P1.0 using
 //  Timer0_A configured for up mode. The value in CCR0, 100-1, defines the PWM
 //  period and the values in CCR1 the PWM duty cycles. Using 32768Hz
